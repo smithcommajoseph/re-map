@@ -1,26 +1,26 @@
 {
-  "name": "Relative-Percentage",
+  "name": "re-map",
   "description": "The best project ever.",
   "version": "0.1.0",
-  "homepage": "https://github.com/technicolorenvy/Relative-Percentage",
+  "homepage": "https://github.com/technicolorenvy/re-map",
   "author": {
     "name": "Joseph (Jos) Smith",
     "email": "@technicolorenvy"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/technicolorenvy/Relative-Percentage.git"
+    "url": "git://github.com/technicolorenvy/re-map.git"
   },
   "bugs": {
-    "url": "https://github.com/technicolorenvy/Relative-Percentage/issues"
+    "url": "https://github.com/technicolorenvy/re-map/issues"
   },
   "licenses": [
     {
       "type": "GNU",
-      "url": "https://github.com/technicolorenvy/Relative-Percentage/blob/master/LICENSE"
+      "url": "https://github.com/technicolorenvy/re-map/blob/master/LICENSE"
     }
   ],
-  "main": "lib/Relative-Percentage",
+  "main": "lib/re-map",
   "engines": {
     "node": ">= 0.8.0"
   },

@@ -1,4 +1,4 @@
-# Relative-Percentage [![Build Status](https://secure.travis-ci.org/technicolorenvy/Relative-Percentage.png?branch=master)](http://travis-ci.org/technicolorenvy/Relative-Percentage)
+# re-map [![Build Status](https://secure.travis-ci.org/technicolorenvy/re-map.png?branch=master)](http://travis-ci.org/technicolorenvy/re-map)
 
 A node port of Processing's [map()](http://processing.org/reference/map_.html) fn.
 
@@ -6,11 +6,11 @@ A node port of Processing's [map()](http://processing.org/reference/map_.html) f
 ## Getting Started
 Install the module with:
 
-    npm install relative-percentage
+    npm install re-map
 
 Then require it like so
 
-    var sendApiData = require('relative-percentage');
+    var reMap = require('re-map');
 
 
 ## Documentation

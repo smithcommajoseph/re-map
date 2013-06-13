@@ -1,0 +1,35 @@
+{
+  "name": "Relative-Percentage",
+  "description": "The best project ever.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/technicolorenvy/Relative-Percentage",
+  "author": {
+    "name": "Joseph (Jos) Smith",
+    "email": "@technicolorenvy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/technicolorenvy/Relative-Percentage.git"
+  },
+  "bugs": {
+    "url": "https://github.com/technicolorenvy/Relative-Percentage/issues"
+  },
+  "licenses": [
+    {
+      "type": "GNU",
+      "url": "https://github.com/technicolorenvy/Relative-Percentage/blob/master/LICENSE"
+    }
+  ],
+  "main": "lib/Relative-Percentage",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "mocha --reporter spec  ./test --recursive"
+  },
+  "devDependencies": {
+    "mocha": "~1.9.0",
+    "should": "~1.2.2"
+  },
+  "keywords": ["processing", "math", "relative percentage"]
+}
